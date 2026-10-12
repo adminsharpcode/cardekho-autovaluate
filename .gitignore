@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+*$py.class
+part_*.html
+!web_app/index.html
+rendered_part_bc.pdf
+rendered_part_bc_massive.pdf
+Machine Learning Submission 10_ready.pdf
+Machine Learning Submission 9_PartA_PartB.pdf
+.DS_Store
+Thumbs.db
